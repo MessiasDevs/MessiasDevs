@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Messias
 
-- 🔭 Atualmente Estou trabalhando na Defensoria Publica como Desenvolverdor full-stack.
-- 🎓 Estudo na Universidade Cruzeiro do sul onde curso 'Analise e Desenvolvimento de sistemas'
-- 🎯 Faço um curso na plataforma onebitcode, onde estou aprendendo a desenvolver FULL STACK - Javascript
+- 🔭 Atualmente Estou trabalhando como freelancer.
+- 🎓 Sou formado em Analise e desenvolvimento de sistemas.
+- 🎯 Com foco e determinacao chegamos a qualquer lugar. 
 - 📞 Contate-me no email : messiasvieira755@gmail.com
 
 <div>
